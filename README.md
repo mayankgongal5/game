@@ -90,21 +90,6 @@ A modern, responsive implementation of the classic Snake game built with Next.js
 
 The game uses Tailwind CSS for styling with a modern, clean design. The UI is fully responsive and adapts to different screen sizes.
 
-## 📦 Deployment
-
-### Vercel
-
-The easiest way to deploy this game is to use the [Vercel Platform](https://vercel.com/new) from the creators of Next.js.
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyour-username%2Fsnake-game&project-name=snake-game&repository-name=snake-game)
-
-### Other Platforms
-
-You can also deploy to other platforms that support Next.js applications, such as:
-- [Netlify](https://www.netlify.com/)
-- [AWS Amplify](https://aws.amazon.com/amplify/)
-- [Heroku](https://www.heroku.com/)
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
